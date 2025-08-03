@@ -4,5 +4,5 @@ Interested in my work?
 
 Send me an [email](mailto:mackenzie.techdocs@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mackenzieoc)!
 
-![Mackenzie Background](img/mackenzie-bg.png)
+![Mackenzie Sign-Off](img/mack-sign.png)
 ---
