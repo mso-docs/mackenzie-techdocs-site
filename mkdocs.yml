@@ -1,0 +1,8 @@
+site_name: 🐺 Mackenzie.TechDocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Examples: examples.md
+  - Blog: blog.md
+  - Release Notes: release-notes.md
+  - Contact: contact.md
