@@ -14,6 +14,7 @@ The current maintainers of this project include:
 ### Resolved
 * Fixed persistent formatting issue.
 * Formatted documentation example to match site formatting.
+* Fixed broken sitemap on [Index](index.md).
 
 ## Version 1.2.0 (08/02/2025)
 ### Added
