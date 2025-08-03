@@ -67,6 +67,7 @@ Thanks for stopping by!
   <img alt="Docsify" src="https://img.shields.io/badge/Docsify-3EAF7C?logo=docsify&logoColor=white" />
   <img alt="Read the Docs" src="https://img.shields.io/badge/Read_the_Docs-8CA1AF?logo=readthedocs&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
+  <img alt = "Obsidian" scr="https://img.shields.io./badge/Obsidian-7C3AED?logo=obsidian&logoColor-white" />
 
 
 ## **Operating Systems**

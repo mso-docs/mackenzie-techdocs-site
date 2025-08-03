@@ -1,3 +1,5 @@
+![Mackenzie.TechDocs](img/mackenzie-docs.png)
+
 # Release Notes
 
 ## Maintainers
@@ -10,11 +12,19 @@ The current maintainers of this project include:
 * Added [Blog](blog.md) page.
 * Fixed blog post formatting.
 * Added [Examples](examples.md) page.
+* Added to ``Tech Stacks`` section on [About](about.md) page.
+* Added ``How to Navigate`` section to [Index](index.md) page.
+* Fixed [Release Notes](release-notes.md) page formating (``like this``).
+* Added Easter egg graphic (``try to find it on this site!``).
+* Fixed graphic on [Contact](contact.md) page.
 
 ### Resolved
 * Fixed persistent formatting issue.
 * Formatted documentation example to match site formatting.
 * Fixed broken sitemap on [Index](index.md).
+* Added banner to top of this page.
+* Did first Pull Request on GitHub.
+* Did first bug fix on site.
 
 ## Version 1.2.0 (08/02/2025)
 ### Added
@@ -26,7 +36,7 @@ The current maintainers of this project include:
 
 ### Resolved
 * Removed stock favicon; replaced with custom ico.
-* Fixed Tech Stack section on [About](about.md) page.
+* Fixed ``Tech Stack`` section on [About](about.md) page.
 * Fixed typos on header of page.
 * Added sections to [About](about.md) page.
 * Removed redundant headers.
@@ -57,5 +67,9 @@ The current maintainers of this project include:
 ### Resolved
 * Issue due to serving MkDocs; installed necessary packages.
 
+---
 
+![Mackenzie.TechDocs](img/mtd-corgi.png)
+
+>>You found the Easter egg! :D 
 ---
