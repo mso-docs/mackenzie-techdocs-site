@@ -22,11 +22,19 @@ On this site, you can find:
 ## Website Layout
 This website is organized in the following way:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The homepage (you are here!).
-        about.md  # Learn more about me and what I do.
-        contact.md # Learn how to get in touch with me.
+```
+mkdocs.yml              # Project configuration
+docs/
+│
+├── index.md            # Homepage for Mackenzie.TechDocs
+├── about.md            # About me and this project
+├── contact.md          # My contact information
+│
+├── blog.md             # Blog about technical writing
+├── examples.md         # Samples of my work
+├── release-notes.md    # Changelog or version history
+
+```
 
 If you need to find something specific, use the ``Search`` function at the top right corner of the page. You can also click ``Next`` or ``Previous`` to tab through each section of the site.
 
