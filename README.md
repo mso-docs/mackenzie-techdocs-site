@@ -33,9 +33,10 @@ You can view the changelog in full on the [Release Notes](release-notes.md) sect
 
 Here is a brief synopsis of what I've done on the site:
 
-
 | Version | Date       | Type     | Notes |
 |---------|------------|----------|-------|
+| 1.2.2   | 08/04/2025 | Added    | Added new blog posts to [Blog](blog.md) page; Created in-page links |
+|         |            | Resolved | Resolved emoji loading issue with blog post (affected direct linking to specific posts); Updated [Release Notes](release-notes.md) page; Updated [README](README.md) page; Responded to GitHub issue requesting the above changes |
 | 1.2.1   | 08/03/2025 | Added    | Added project to GitHub; Added [Blog](blog.md) page; Fixed blog post formatting; Added [Examples](examples.md) page |
 |         |            | Resolved | Fixed persistent formatting issue; Formatted documentation example to match site formatting |
 | 1.2.0   | 08/02/2025 | Added    | Added CSS/HTML styles; Updated favicon; Added branding; Updated site name; Added [Release Notes](release-notes.md) page |
@@ -44,6 +45,7 @@ Here is a brief synopsis of what I've done on the site:
 |         |            | Resolved | Fixed Index page content; Revised intro for web; Removed dummy text |
 | 1.0.0   | 06/04/2025 | Added    | Initial site build; Tested functionality; Researched MkDocs; Edited Index page |
 |         |            | Resolved | Fixed MkDocs serving issue by installing packages |
+
 
 # Thanks For Reading!
 You rock!
