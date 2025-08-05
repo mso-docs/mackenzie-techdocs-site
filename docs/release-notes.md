@@ -6,6 +6,17 @@
 The current maintainers of this project include:
 * [mso-docs](https://github.com/mso-docs) 
 
+## Version 1.2.2 (08/04/2025)
+### Added
+* Added new blog posts to [Blog](blog.md) page.
+* Created in-page links.
+
+### Resolved
+* Resolved emoji loading issue with blog post (affected the direct linking to specific posts).
+* Updated [Release Notes](release-notes.md) page.
+* Updated [README](README.md) page.
+* Responded to GitHub issue requesting the above changes.
+
 ## Version 1.2.1 (08/03/2025)
 ### Added
 * Added project to GitHub.

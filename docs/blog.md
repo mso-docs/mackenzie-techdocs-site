@@ -250,3 +250,244 @@ So sit. Stay. Explain.
 And most of all? Keep writing like someone’s success depends on it — because it does.
 
 ---
+
+## 🦴 Treat-Driven Development: Incentivizing Quality Docs
+
+Good documentation doesn’t magically appear. It takes time, empathy, and collaboration between humans (and sometimes dogs) who would often rather be coding. So how do you encourage a team to take documentation seriously — not as a chore, but as a core part of the product?
+
+Welcome to **Treat-Driven Development**, where incentives, recognition, and thoughtful structure help create a doc culture that sticks.
+
+---
+
+### 🐕 What Is Treat-Driven Development?
+
+Treat-Driven Development (TDD) is a play on “Test-Driven Development,” but instead of writing tests first, we’re building a system that rewards and reinforces good documentation habits.
+
+Think of it like training your team: instead of growling when someone forgets to document, give them a treat when they do it right.
+
+---
+
+#### 🍖 The Problem: Why Docs Often Get Ignored
+
+- Docs aren’t tied to success metrics
+- Writers are outnumbered and overwhelmed
+- Devs don’t see immediate value in writing docs
+- No feedback loop to validate documentation quality
+- Docs rot over time if no one owns them
+
+The result? Guides that are outdated, shallow, or missing entirely — even in otherwise brilliant codebases.
+
+---
+
+### 🐾 The Treats: How to Incentivize Better Docs
+
+Here’s how you build a doc culture without barking orders:
+
+#### ✅ 1. Make Docs Part of “Definition of Done”
+
+Add documentation requirements directly into your PR checklist or sprint board:
+
+- [ ] Feature has updated user-facing documentation
+- [ ] Internal notes or dev guides are current
+* [ ] API changes include updated examples
+
+🐶 *Docs aren't optional — they’re part of finishing the work.*
+
+---
+
+#### 💬 2. Give Positive Reinforcement
+
+Celebrate docs in standups, retros, or Slack:
+
+- “Huge shoutout to Sam for writing that onboarding guide — it saved us hours!”
+- “This doc rewrite helped three new users succeed this week!”
+
+🍪 Use emojis, GIFs, or even actual snacks if you're on-site. Positive attention goes a long way.
+
+---
+
+#### 🏅 3. Reward Contributions
+
+Create incentives for solid doc work:
+
+- Highlight “Doc of the Month” in your internal newsletter
+- Award badges/stickers/virtual medals to contributors
+- Tie doc ownership to internal recognition systems
+
+🐾 You’d be surprised how much a silly paw-print trophy can boost morale.
+
+---
+
+#### 🧠 4. Train Devs to Be Doc-Friendly
+
+Not every developer needs to be a novelist — but they *can* learn to:
+
+- Add meaningful code comments
+- Write usage examples in PRs
+- Keep README.md files current
+
+📚 Offer a 20-minute “Docs 101” lunch-and-learn or share a guide like “How to Write Dev Docs Without Hating It.”
+
+---
+
+#### 🔄 5. Close the Feedback Loop
+
+Let writers and devs know when docs are working:
+
+- Share real user quotes (“I followed the tutorial and it just worked!”)
+- Track support ticket reductions post-doc update
+- Monitor doc usage analytics
+
+🐕 Treat: Give credit *back* to the person who improved the doc.
+
+---
+
+### 📏 Tools to Help You Reward Docs
+
+| Tool            | Use Case                                |
+|------------------|-------------------------------------------|
+| GitHub PR templates | Require doc updates in code reviews     |
+| ReadMe / Stoplight | Add user ratings or comments on docs     |
+| Slack/Discord bots | Auto-shoutout contributors to #docs      |
+| Google Forms      | Collect internal votes for doc MVPs       |
+
+---
+
+### 🐕 Wrap-Up: Create a Culture of Documentation Delight
+
+Treat-Driven Development isn’t about bribery — it’s about reinforcing a shared value: **docs matter**.
+
+When you reward good documentation with praise, visibility, and small wins, you build a team that sees writing as part of shipping. And that, friend, is how you raise a loyal, productive doc culture that wags its tail with pride.
+
+Now go give someone a treat.
+
+---
+
+## 🔗 Related Reads:
+- [Sit, Stay, Explain: Writing Docs with Command Clarity](#-sit-stay-explain-writing-docs-with-command-clairty)
+- [Dog-Eared Docs: When & How to Archive Old Content](#dog-eared-docs-when-and-how-to-archive-old-content)
+- [Fetching the Basics: How to Start Writing Developer Docs](#fetching-the-basics-how-to-start-writing-developer-docs)
+
+--
+
+## Dog-Eared Docs: When and How to Archive Old Content
+
+Every tech writer has come across them — old, dusty documentation pages that haven’t seen a pawprint in years. They lurk in sidebars, mislead users, and haunt support teams. These are your **stale docs**, and if you don’t manage them, they’ll dig holes in your documentation strategy.
+
+Let’s sniff out how to recognize, handle, and gracefully retire outdated content — without upsetting the whole pack.
+
+---
+
+### 🐕 What Are “Dog-Eared” Docs?
+
+Dog-eared docs are:
+- Outdated guides referencing deprecated features
+- Old APIs no longer in use
+- Tutorials for workflows that no longer apply
+- Articles with broken links, screenshots, or commands
+
+They might not bark, but they bite — especially when a user follows them and ends up completely lost.
+
+---
+
+### 🦴 Why Managing Stale Docs Matters
+
+Letting old docs sit around isn’t harmless. It leads to:
+
+- 🚨 **Confusion**: Users follow old steps and hit errors
+- 🐢 **Support load**: Devs and support teams get repetitive questions
+- 🧱 **Clutter**: New content gets buried in outdated cruft
+- 😕 **Brand erosion**: Docs that feel abandoned make the product look abandoned
+
+Managing stale docs is part janitorial, part curation, and part detective work.
+
+---
+
+### 🐾 Signs a Doc Needs Retiring
+
+Sniff out the following:
+
+| Sign                        | What It Means                                   |
+|-----------------------------|--------------------------------------------------|
+| Last updated > 12 months    | It may be obsolete or in need of review         |
+| Refers to deprecated APIs   | Misleads users and causes frustration            |
+| Has “Coming Soon” content   | Someone forgot to clean up                      |
+| High bounce rate (analytics)| People are finding it, but leaving confused     |
+| Internal SME says “Huh?”    | The content is likely out of sync with reality  |
+
+---
+
+### 🐶 Audit Your Kennel Regularly
+
+A good practice is to **audit your documentation set** every 3–6 months.
+
+You can:
+- Export a list of pages with last modified dates
+- Track analytics to see usage and drop-offs
+- Ask product owners or devs to flag outdated content
+
+💡 **Pro tip**: Create a stale doc dashboard or spreadsheet to track status, review dates, and action plans.
+
+---
+
+### 🐩 What to Do With Old Docs
+
+Once you identify the stale stuff, here’s your action plan:
+
+#### ✅ Update It
+If the content is still relevant but outdated, revise it:
+- Add current screenshots or CLI output
+- Remove deprecated flags or parameters
+- Clarify confusing language
+
+#### 📦 Archive It
+If it’s obsolete but still *historically relevant*, move it:
+- Add a banner: `⚠️ This doc refers to version 1.x, which is no longer supported`
+- Move it to an “Archive” section
+- Remove from nav/search results if possible
+
+#### 🗑️ Retire It
+If it’s completely useless:
+- Remove it from the repo or CMS
+- Set up redirects (for static sites)
+- Log the removal in changelogs or commit history
+
+---
+
+### 🦮 Train Your Team to Avoid Staleness
+
+Teach your whole pack to help prevent stale docs:
+
+- Link code changes to doc updates in your PR process
+- Use versioning (e.g., `/v1/`, `/v2/`) to isolate legacy content
+- Encourage doc ownership within dev teams
+
+🐾 *Make doc freshness part of the sprint*, not an afterthought.
+
+---
+
+### 📏 Tools to Help You Track Aging Content
+
+| Tool            | Use Case                                |
+|------------------|-------------------------------------------|
+| GitHub Actions   | Flag old Markdown files via script       |
+| Google Analytics | Track bounce rates, page views, exits    |
+| Read the Docs    | Supports versioned content out of the box |
+| Docsify / Docusaurus | Add custom banners to legacy pages     |
+
+---
+
+### 🐕 Wrap-Up: Don’t Let Old Docs Bite Back
+
+Documentation isn’t a write-it-once-and-walk-away job. Like dogs, it needs grooming, feeding, and a bit of discipline now and then.
+
+By identifying and managing stale docs, you create a cleaner, safer, and more useful experience for every developer who sniffs around your product.
+
+So check your shelves. You might just find a few dog-eared pages waiting for a new leash on life.
+
+---
+
+### 🔗 Related Reads:
+- [Sit, Stay, Explain: Writing Docs with Command Clarity](#-sit-stay-explain-writing-docs-with-command-clarity)
+- [Fetching the Basics: How to Start Writing Developer Docs](#fetching-the-basics-how-to-start-writing-developer-docs)
+- [Treat-Driven Development: Incentivizing Quality Docs](#treat-driven-development-incentivizing-quality-docs)
