@@ -1,7 +1,7 @@
 ![Mackenzie.TechDocs](./docs/img/mackenzie-docs.png)
 
 # Welcome to the Mackenzie.TechDocs Project!
-This is my technical writing website, which was made with MkDocs. I will be updating this page soon.
+This is my technical writing website, which was made with MkDocs. I will be updating this page soon. Stay tuned!
 
 
 Some facts about this site:
